@@ -1,6 +1,6 @@
 # Blockchain Study Guide
 
-About BlockChain Secutiry
+About Blockchain Study.
 
 ## 项目介绍
 
